@@ -1,4 +1,4 @@
-# PowerBI
+# Power BI
 
 This my portfolio of Power BI reports. I did most of my Power BI reporting at jobs where I couldn't take the data with me, and haven't had as much of a chance to build this out as I'd like.
 
